@@ -59,7 +59,7 @@ logo = """
 \033[1;96mAuthor  \033[1;93m: \033[1;92mAkash234 Sanajana
 \033[1;96mInstagram \033[1;93m: \033[1;FlowAkash234Sanjana
 \033[1;96mFacebook  \033[1;93m: \033[1; Akash234Sanjana
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Akash234Sanjana/AkashSanjana.git
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Akash234Sanjana/Test1.git
 \033[1;91m======================================="""
 
 def tik():
@@ -83,7 +83,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mAkash234 Sanjana
 \033[1;96mInstagram \033[1;93m: \033[1;92mFlowAkash234Sanjana
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Akash234Sanjana
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Akash234Sanjana/AkashSanjana.git
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Akash234Sanjana/Test1.git
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
