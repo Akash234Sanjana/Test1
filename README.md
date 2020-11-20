@@ -11,8 +11,8 @@
 
 *pkg install git
 
-*git clone https://github.com/Akash234Sanjana/AkashSanjana.git
+*git clone https://github.com/Akash234Sanjana/Test1.git
 
-*cd AkashSanjana
+*cd Test1
 
 *python2 AkashChamooth.py
